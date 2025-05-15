@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="131" height="39" viewBox="0 0 131 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+    </pattern>
+    <pattern id="pattern-0-0" href="#pattern-0" patternTransform="matrix(1, 0, 0, 1, 114.830967, 11.162409)"/>
+  </defs>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M17 39C26.3888 39 34 31.3888 34 22C34 12.6112 26.3888 5 17 5C7.61114 5 0 12.6112 0 22C0 31.3888 7.61114 39 17 39ZM22.3034 12.9193C22.5616 12.0023 21.6717 11.4601 20.859 12.0391L9.51415 20.1211C8.63278 20.749 8.77142 22 9.7224 22H12.7098V21.9768H18.5321L13.788 23.6508L11.6966 31.0807C11.4385 31.9977 12.3282 32.5399 13.141 31.9609L24.4859 23.8789C25.3672 23.251 25.2285 22 24.2776 22H19.7473L22.3034 12.9193Z" fill="white"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="65.22" y="10.137"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="80.053" y="8.125"> </text>
+  <text style="fill: url(&quot;#pattern-0-0&quot;); font-family: Arial, sans-serif; font-size: 28px; font-weight: 700; stroke: rgb(218, 0, 13); white-space: pre; transform-box: fill-box; transform-origin: 102.919px 15.6643px;" transform="matrix(0.395831, -0.001007, 0.002693, 1.056998, -51.913724, -1.74882)" x="24.411" y="33.352">QUICK-ESTATE</text>
+</svg>
